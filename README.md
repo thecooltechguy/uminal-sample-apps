@@ -1,6 +1,6 @@
 # Sample apps for Uminal
 
-This repository implements 3 of the sample applications shown in the Uminal demo video:
+This repository implements 3 of the sample applications shown in the [Uminal demo video](https://www.loom.com/share/211327fd8e854513b909b0f69eadd2f8):
 
 - Web search
   - Uses the SerpApi to search Google
@@ -11,7 +11,7 @@ This repository implements 3 of the sample applications shown in the Uminal demo
 
 All of these are implemented in the `app.py` file.
 
-Fun fact: As you can see from the code, these apps are actually just a few [**Langchain**](https://github.com/hwchase17/langchain) Chains, wrapped around an API endpoint!
+**Fun fact:** As you can see from the code, these apps are actually just a few [**LangChain**](https://github.com/hwchase17/langchain) Chains, wrapped around an API endpoint!
 
 **Key point:** As long as an app has an API endpoint that can read/write text, it can plug into Uminal and start composing w/ all of the other apps, automatically.
 
