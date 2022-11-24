@@ -1,0 +1,9 @@
+{
+    "input" : "Does Alanis Morissette exist in the FooBar database?",
+    "user" : {
+        "id" : "1",
+        "configuration" : {
+            "db_uri" : "sqlite:///Chinook.db"
+        }
+    }
+}

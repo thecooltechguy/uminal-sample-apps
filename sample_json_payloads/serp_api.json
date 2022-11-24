@@ -1,0 +1,8 @@
+{
+    "input" : "Who is Alanis Morissette?",
+    "user" : {
+        "id" : "1",
+        "configuration" : {
+        }
+    }
+}
